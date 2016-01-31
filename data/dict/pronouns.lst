@@ -506,13 +506,25 @@
 всіх весь adj:p:v_rod/v_zna/v_mis:&pron:gen
 всіма весь adj:p:v_oru:&pron:gen
 
-#все весь noun:n:v_naz/v_zna:&pron:gen
-#всього весь noun:n:v_rod:&pron:gen
-#всьому весь noun:n:v_dav/v_mis:&pron:gen
-#всім весь noun:n:v_oru/v_mis//p:v_dav:&pron:gen
-#всі весь noun:p:v_naz:&pron:gen
-#всіх весь noun:p:v_rod/v_zna/v_mis:&pron:gen
-#всіма весь noun:p:v_oru:&pron:gen
+все все noun:n:v_naz/v_zna:&pron:gen:v-u
+всього все noun:n:v_rod:&pron:gen:v-u
+всьому все noun:n:v_dav/v_mis:&pron:gen:v-u
+всім все noun:n:v_oru/v_mis:&pron:gen:v-u
+
+всі всі noun:p:v_naz:&pron:gen:v-u
+всім всі noun:p:v_dav:&pron:gen:v-u
+всіма всі noun:p:v_oru:&pron:gen:v-u
+всіх всі noun:p:v_rod/v_zna/v_mis:&pron:gen:v-u
+
+усе усе noun:n:v_naz/v_zna:&pron:gen:v-u
+усього усе noun:n:v_rod:&pron:gen:v-u
+усьому усе noun:n:v_dav/v_mis:&pron:gen:v-u
+усім усе noun:n:v_oru/v_mis:&pron:gen:v-u
+
+усі усі noun:p:v_naz:&pron:gen:v-u
+усім усі noun:p:v_dav:&pron:gen:v-u
+усіма усі noun:p:v_oru:&pron:gen:v-u
+усіх усі noun:p:v_rod/v_zna/v_mis:&pron:gen:v-u
 
 увесь увесь adj:m:v_naz/v_zn2:&pron:gen
 усього увесь adj:m:v_rod/v_zn1//n:v_rod:&pron:gen
